@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_market" type="id"></item>
+    <item name="action_school" type="id"></item>
+    <item name="action_restaurant" type="id"></item>
+    <item name="action_hospital" type="id"></item>
+</resources>
